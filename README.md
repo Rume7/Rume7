@@ -6,7 +6,20 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rume7&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rume7&theme=onedark) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&hide=issues,contribs&count_private=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rume7&theme=onedark) 
+
+<!-- Custom colors -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&bg_color=0d1117&text_color=c9d1d9&icon_color=f85149&title_color=58a6ff&show_icons=true)
+
+<!-- Custom border and background -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&border_color=30363d&bg_color=0d1117)
+
+<!-- Disable border -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Custom rank icon -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&rank_icon=percentile)
 
 
 <!--
