@@ -12,8 +12,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&bg_color=0d1117&text_color=c9d1d9&icon_color=f85149&title_color=58a6ff&show_icons=true)
 
 <!-- Custom rank icon -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&rank_icon=github)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&rank_icon=percentile)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&hide=issues&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&count_private=true&rank_icon=percentile)
 
 
 <!--
