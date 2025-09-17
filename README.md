@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&count_private=true&rank_icon=percentile)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rume7&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&hide=issues&theme=tokyonight&count_private=true&rank_icon=percentile)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rume7&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rume7&theme=tokyonight)
 
