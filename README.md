@@ -6,7 +6,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rume7&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rume7&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rume7&theme=onedark) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&theme=tokyonight&hide=issues,contribs&count_private=true)
 
 
 <!--
