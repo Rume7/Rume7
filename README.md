@@ -8,6 +8,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rume7&theme=tokyonight)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rume7&color=blue)
+
 ![Snake animation](https://github.com/Rume7/Rume7/blob/output/github-contribution-grid-snake.svg)
 
 <!--
