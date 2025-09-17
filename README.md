@@ -10,6 +10,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rume7&color=blue)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rume7&theme=onedark)
+
 ![Snake animation](https://github.com/Rume7/Rume7/blob/output/github-contribution-grid-snake.svg)
 
 <!--
