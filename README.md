@@ -2,16 +2,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&hide=issues&theme=tokyonight&count_private=true&rank_icon=percentile)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rume7&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&show_icons=true&hide=issues&theme=tokyonight&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rume7&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rume7&theme=tokyonight)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rume7&theme=onedark) 
-
-<!-- Custom rank icon -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rume7&hide=issues&show_icons=true&theme=tokyonight)
-
-
 
 <!--
 **Rume7/Rume7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
