@@ -6,8 +6,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rume7&theme=tokyonight)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rume7&color=blue)
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rume7&theme=onedark)
 
 
