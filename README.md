@@ -5,9 +5,9 @@
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Rume7&show_icons=true&hide=issues&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rume7&layout=compact&theme=tokyonight)
 
+<!--
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rume7&theme=tokyonight)
 
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
