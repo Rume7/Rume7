@@ -7,8 +7,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rume7&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rume7&theme=tokyonight)
-
 <!--
 Here are some ideas to get you started:
 
