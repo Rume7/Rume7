@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hallo there! 👋
 
 ## 📊 GitHub Stats
 
